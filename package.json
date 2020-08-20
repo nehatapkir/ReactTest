@@ -1,0 +1,23 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "ag-grid-community": "^23.2.1",
+    "ag-grid-react": "^23.2.1",
+    "history": "^5.0.0",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-dom-factories": "^1.0.2",
+    "react-router": "^3.2.6",
+    "react-router-dom": "^5.1.2"
+  }
+}
